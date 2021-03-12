@@ -6,7 +6,7 @@ import cv2 as cv
 
 #cv.waitKey(0)
 
-### Reading Videos
+### Reading Videos for Test
 
 capture = cv.VideoCapture('Videos/dog.mp4')
 
