@@ -6,7 +6,7 @@ import cv2 as cv
 
 #cv.waitKey(0)
 
-### Reading Videos for Test ssh keys
+### Reading Videos for Test ssh 
 
 capture = cv.VideoCapture('Videos/dog.mp4')
 
